@@ -1,0 +1,35 @@
+C:/Users/Konrad/STM32CubeIDE/workspace_1.10.1/czysty projekt/hagl/include/rgb888.h:49:19:min	16	static
+C:/Users/Konrad/STM32CubeIDE/workspace_1.10.1/czysty projekt/hagl/include/rgb888.h:56:19:max	16	static
+../hagl/src/hagl.c:65:6:hagl_set_clip_window	16	static
+../hagl/src/hagl.c:72:6:hagl_put_pixel	16	static
+../hagl/src/hagl.c:88:9:hagl_get_pixel	16	static
+../hagl/src/hagl.c:107:6:hagl_draw_hline	32	static
+../hagl/src/hagl.c:142:6:hagl_draw_vline	32	static
+../hagl/src/hagl.c:176:6:hagl_draw_line	56	static
+../hagl/src/hagl.c:220:6:hagl_draw_rectangle	32	static
+../hagl/src/hagl.c:258:6:hagl_fill_rectangle	32	static
+../hagl/src/hagl.c:302:9:hagl_get_glyph	40	static
+../hagl/src/hagl.c:337:9:hagl_put_char	4160	static
+../hagl/src/hagl.c:380:10:hagl_put_text	56	static
+../hagl/src/hagl.c:404:10:hagl_put_num	56	static
+../hagl/src/hagl.c:437:6:hagl_blit	32	static
+../hagl/src/hagl.c:473:6:hagl_scale_blit	48	static
+../hagl/src/hagl.c:493:6:hagl_clear_screen	24	static
+../hagl/src/hagl.c:508:6:hagl_clear_clip_window	24	static
+../hagl/src/hagl.c:515:6:hagl_draw_circle	32	static
+../hagl/src/hagl.c:550:6:hagl_fill_circle	32	static
+../hagl/src/hagl.c:571:6:hagl_draw_ellipse	48	static
+../hagl/src/hagl.c:642:6:hagl_fill_ellipse	48	static
+../hagl/src/hagl.c:709:6:hagl_draw_polygon	40	static
+../hagl/src/hagl.c:730:6:hagl_fill_polygon	184	static
+../hagl/src/hagl.c:797:6:hagl_draw_triangle	40	static
+../hagl/src/hagl.c:802:6:hagl_fill_triangle	40	static
+../hagl/src/hagl.c:807:6:hagl_draw_rounded_rectangle	40	static
+../hagl/src/hagl.c:878:6:hagl_fill_rounded_rectangle	48	static
+../hagl/src/hagl.c:959:17:tjpgd_data_reader	32	static
+../hagl/src/hagl.c:972:17:tjpgd_data_writer	48	static
+../hagl/src/hagl.c:992:10:hagl_load_image	3256	static
+../hagl/src/hagl.c:1022:9:hagl_color	16	static
+../hagl/src/hagl.c:1031:11:hagl_init	8	static
+../hagl/src/hagl.c:1042:8:hagl_flush	4	static
+../hagl/src/hagl.c:1050:6:hagl_close	4	static
