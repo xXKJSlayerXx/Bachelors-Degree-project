@@ -1,0 +1,5 @@
+../Core/Src/lps25hb.c:27:16:lps_read_reg	40	static
+../Core/Src/lps25hb.c:35:13:lps_write_reg	32	static
+../Core/Src/lps25hb.c:40:19:lps25hb_init	8	static
+../Core/Src/lps25hb.c:49:7:lps25hb_read_temp	32	static
+../Core/Src/lps25hb.c:59:7:lps25hb_read_pressure	32	static
